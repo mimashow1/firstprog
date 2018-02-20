@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <link href="css/main.css" type="text/css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway" rel="stylesheet">
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <title>Moscow</title>
   </head>
   <body>
