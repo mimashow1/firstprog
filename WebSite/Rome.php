@@ -38,7 +38,7 @@
         includes tickets for a plane to 2 sides, accommodation in a 4-star hotel,
         a city tour, a free breakfast. The business version includes tickets to
         2 sides, accommodation in a 5-star hotel, city tour, museum tours, free
-        breakfasts, lunchs and dinners.</p>
+        breakfasts, lunchs and dinners. 2 ice-creams.</p>
       </div>
 
       <div id="city-about">
