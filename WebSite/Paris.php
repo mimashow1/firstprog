@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>ja
 <html>
   <head>
     <meta charset="utf-8">
