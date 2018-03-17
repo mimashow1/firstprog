@@ -14,7 +14,7 @@
 
 
     <ul id="menu">
-      <li> <a href="home.php">Home</a> </li>
+      <li> <a href="home.php">Home</a> </li>net
       <li> <a href="journeys.php" class="active">Journeys</a> </li>
       <li> <a href="ordering.php">Make an order</a> </li>
       <li> <a href="photo-gallery.php">Photo gallery</a> </li>
